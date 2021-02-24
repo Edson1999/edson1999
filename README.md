@@ -4,7 +4,7 @@ Mi nombre es: Edson Ibarra:sparkles:, me gusta la tecnología, especialmente el 
 - Me gusta la Programación ⌨️.
 - Aprender sobre nuevo hardware (AMD, Intel, Nvidia, etc) 🏢.
 ___
-Conocimientos 🏳️🍎
+**Conocimientos** 🏳️🍎
 - C#
 - C++
 - MySql
