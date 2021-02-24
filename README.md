@@ -10,8 +10,13 @@ Conocimientos 🏳️🍎
 - MySql
 - SQL Server
 ___
-Herramientas empleadas para desarrollar 🧰📲
+Herramientas empleadas para desarrollar 🧰🖥️
 - Visual Studio IDE
 - Intellij IDEA (JetBrains)
 - SSMS
 - MySQL Workbench
+___
+Datos Adicionales 👀📚
+- Normalmente leo articulos sobre hardware.
+- Me gusta evaluar harware (comparaciones), puedo recomendar el ya mencionado.
+- Puedes preguntarme si tienes alguna duda en los lenguajes de mi conocimiento, para alguna práctica que necesites realizar.
