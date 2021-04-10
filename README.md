@@ -21,4 +21,4 @@ ___
 - Me gusta evaluar harware (**comparaciones**), puedo recomendar el ya mencionado.
 - Puedes preguntarme si tienes alguna duda en los lenguajes de mi conocimiento, para alguna práctica que necesites realizar.
 - Me encuentro estudiando sobre **Scala** y sus aplicaciones.
-- Estoy interesado en aprender nuevos lenguajes de programación como **Python, HTML5 y CSS3, etc**.
+- Estoy interesado en aprender nuevos lenguajes de programación.
