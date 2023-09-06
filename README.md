@@ -1,23 +1,41 @@
-### Bienvenidos a este repositorio 👋:stuck_out_tongue_winking_eye:
-___
-Mi nombre es: Edson Ibarra:sparkles:, me gusta la tecnología, especialmente el apartado para hardware de PC :computer:.
-- Me gusta la Programación ⌨️.
-- Aprender sobre nuevo hardware (**AMD, Intel, Nvidia, etc**) 🏢.
-___
-**Conocimientos** 🏳️🍎
+## Bienvenidos a este repositorio 👋
+
+<br>
+
+**Datos**
+
+```
+- Me llamo: Edson Ibarra.
+- Actualmente soy: Front-End Developer.
+- Tengo una carrera en: Ingeniería en Sistemas Computacionales.
+```
+
+**Tecnologías**
+
+Algunas de las tecnologías que empleo para desarrollar son:
+
+```
+- React JS
+- React Redux
+- Tailwindcss
+- Eslint + Airbnb
+```
+
+**Conocimientos**
+
+A lo largo de mi carrera he trabajo con algunas otras herramientas / tecnologías / lenguajes:
+
+```
+- Postman
+- MySQL
+- Firebase
+- Cloudinary
 - C#
 - C++
-- MySql
-- SQL Server
-___
-**Herramientas empleadas para desarrollar** 🧰🖥️
-- Visual Studio IDE
-- Intellij IDEA (JetBrains)
-- SSMS
-- MySQL Workbench
-___
-**Datos Adicionales** 👀📚
-- Normalmente leo articulos sobre hardware.
-- Me gusta evaluar harware (**comparaciones**), puedo recomendar el ya mencionado.
-- Puedes preguntarme si tienes alguna duda en los lenguajes de mi conocimiento, para alguna práctica que necesites realizar.
-- Estoy interesado en aprender nuevos lenguajes de programación.
+```
+
+**Datos adicionales**
+
+```
+- Empleo Visual Studio Code para desarrollar mis proyectos.
+```
